@@ -1,0 +1,49 @@
+body {background-color:beige;}
+.list {list-style:  none;}
+h2 {list-style: none;}
+p {list-style: none;}
+
+/*sidebar*/
+
+
+.container-sidebar {
+    margin-top: 200px;
+    margin-right: 50px;
+    box-sizing: border-box;
+
+position: absolute;
+width: 1000px;
+height: 420px;
+left: 1224px;
+top: 24px;
+
+
+
+}
+.list-skills {
+    list-style: none;
+    left: 924px;
+    top: 500px;}
+
+.text {color: blue;}
+
+.header-item {
+    list-style: none;
+    text-decoration: none;
+}
+
+.header-item-tel {
+    text-decoration: none;
+}
+
+.header-item-mail {
+    text-decoration: none;
+}
+
+.section-picture {position: absolute;
+    width: 1000px;
+    height: 420px;
+    left: 1224px;
+    top: 24px;
+
+}
